@@ -1,6 +1,7 @@
 /* remove this code and add your own! */
 body{
-  background-color: cyan;
+  background-color: white;
+
   
 
 }
@@ -11,7 +12,7 @@ i{
   color: black;
   font-size: medium;
   text-align: auto;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  
  
   ;
   
@@ -20,7 +21,7 @@ i{
 
 img{
   border-radius: 50%;
-  border:3px solid lightskyblue;
+  border:3px solid purple;
   font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
@@ -32,16 +33,12 @@ img{
   right: 75px;
   top: 0;
   padding: 50px;
-  background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._ESfFEK_rJrVT1fd60ZaFgHaEo%26pid%3DApi&f=1);
+  background-color: hotpink;
   margin-left: 30%;
 
 }
 
-sidebar div {
-  padding: 8px;
-  font-size: 24px;
-  display: block;
-  }
+
 
 
 .body-text{
@@ -49,6 +46,7 @@ sidebar div {
   margin: 50px;px;
   font: size 18px;
   top: 5px;
+  
 }
 
 p{
@@ -59,6 +57,9 @@ p{
 
 }
 
-
+h6{
+  font-size: larger;
+  font-style: oblique;
+}
 
  
