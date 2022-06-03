@@ -1,5 +1,68 @@
 /* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
+body{
+  background-color: pink;
+  font-weight: 200;
+
+}
+
+
+
+i{
+  color: white;
+  font-size: medium;
+  text-align: left;
+ 
+  ;
+  
+  
+}
+
+img{
+  border-radius: 50%;
+  border:3px solid lightskyblue;
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+
+.sidebar{
+  height: 110%;
+  width: 375px;
+  position: absolute;
+  right: 75px;
+  top: 0;
+  padding: 50px;
+  background-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._ESfFEK_rJrVT1fd60ZaFgHaEo%26pid%3DApi&f=1);
+  margin-left: 30%;
+
+}
+
+sidebar div {
+  padding: 8px;
+  font-size: 24px;
+  display: block;
   }
+
+
+.body-text{
+  color: black;
+  margin: 50px;px;
+  font: size 18px;
+  top: 5px;
+}
+
+p{
+  font-size: 20px;
+  text-align: right;
+  margin-right: 50%;
+  color:black;
+
+}
+
+h5{
+  text-align: start;
+  color:white;
+}
+ i.fa-solid fa-circle-user {
+  margin-right: .5rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
